@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoMelem&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMelem&layout=compact&langs_count=5&card_width=320&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/BrenoMelem/BrenoMelem/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/BrenoMelem/BrenoMelem/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="151" src="./assets/meu-gif.gif" />
 
 ###
 
