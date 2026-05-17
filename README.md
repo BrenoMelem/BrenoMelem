@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="151" src="https://www.instagram.com/p/DFNPBMDz2v-/?img_index=14&epik=dj0yJnU9akVhNWRNZnlRd3M2LUlTSmZxTVhWcWJwZFE1Zjg2WWcmcD0wJm49SU5MODZLT2F1V3c5M25VYktYLWhxZyZ0PUFBQUFBR29KeS1J"  />
+<img align="right" height="151" src="./assets/meu-gif.gif" />
 
 ###
 
