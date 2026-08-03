@@ -101,4 +101,3 @@ Um sistema distribuído em Java, dividido em serviços independentes que se comu
 </div>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/BrenoMelem/BrenoMelem/snake-output/snake.svg" alt="Snake animation" />
-###
