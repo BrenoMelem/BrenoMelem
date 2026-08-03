@@ -39,7 +39,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
       - name: push stats.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -60,7 +60,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=typescript
           path: dist/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
       - name: push languages.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
